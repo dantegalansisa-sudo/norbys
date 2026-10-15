@@ -215,7 +215,7 @@ export default function ProductPage() {
             <motion.button whileTap={{ scale: 0.97 }} className="btn btn--dark btn--lg" onClick={() => addToBag(false)}>
               <IconBag size={19} /> Add to Bag
             </motion.button>
-            <motion.button whileTap={{ scale: 0.97 }} className="btn btn--olive btn--lg" onClick={() => addToBag(true)}>
+            <motion.button whileTap={{ scale: 0.97 }} className="btn btn--clay btn--lg" onClick={() => addToBag(true)}>
               Buy Now <IconArrow size={18} />
             </motion.button>
           </div>
