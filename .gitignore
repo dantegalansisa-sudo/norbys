@@ -4,3 +4,4 @@ _source-images
 *.local
 .DS_Store
 .claude
+*.tsbuildinfo
