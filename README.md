@@ -8,7 +8,10 @@ Demo de e-commerce para **NORBYS USA**, marca de streetwear (hoodies, tees, crew
 npm install
 npm run dev      # http://localhost:5173
 npm run build    # genera /dist
+npm run deploy   # publica en GitHub Pages
 ```
+
+**Demo en vivo:** https://dantegalansisa-sudo.github.io/norbys/
 
 ## Flujo de compra (estándar de EE. UU.)
 
